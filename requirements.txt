@@ -1,0 +1,29 @@
+
+# Core data science
+pandas>=2.2,<3
+numpy>=1.26,<2
+scipy>=1.13
+scikit-learn>=1.5
+joblib>=1.4
+
+# Assigned forecasting technologies
+prophet>=1.1.5
+lightgbm>=4.3
+u8darts>=0.30
+pytorch-forecasting>=1.0
+
+# Deep learning backend
+torch
+lightning
+
+# Inventory optimization
+ortools>=9.10
+
+# Dashboard and visualization
+dash>=2.17
+plotly>=5.22
+
+# Testing and notebooks
+pytest>=8.0
+jupyter>=1.0
+ipykernel>=6.29
