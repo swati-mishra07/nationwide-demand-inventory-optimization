@@ -1,0 +1,10 @@
+{
+    "model": "Temporal Fusion Transformer",
+    "series_count": 20,
+    "observations": 560,
+    "forecast_horizon_days": 28,
+    "wape": 0.9218,
+    "mae": 0.935,
+    "rmse": 1.5281,
+    "mean_series_rmsse": 1.0349
+}

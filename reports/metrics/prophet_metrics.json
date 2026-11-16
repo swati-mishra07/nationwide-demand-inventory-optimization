@@ -1,0 +1,20 @@
+{
+    "model": "Prophet",
+    "training_cutoff": "2016-04-25",
+    "holdout_days": 28,
+    "series_trained": 200,
+    "prediction_rows": 5600,
+    "metrics": {
+        "wape": 0.8264526563917848,
+        "mae": 1.1794660053362758,
+        "rmse": 1.980844554252607,
+        "mean_per_series_rmsse": 1.0356500386912757,
+        "rmsse_series_count": 200,
+        "rmsse_definition": "Unweighted mean of per-series RMSSE values"
+    },
+    "features": [
+        "Weekly seasonality",
+        "Yearly seasonality",
+        "Known M5 holiday and event dates"
+    ]
+}

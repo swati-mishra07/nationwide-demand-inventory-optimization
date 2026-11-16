@@ -1,0 +1,11 @@
+{
+    "method": "Darts BottomUpReconciliator",
+    "darts_version": "0.48.1",
+    "item_store_series": 200,
+    "stores": 2,
+    "states": 1,
+    "forecast_dates": 28,
+    "maximum_coherence_difference": 1.1368683772161603e-13,
+    "coherence_check_passed": true,
+    "output_file": "reports\\reconciliation\\darts_reconciled_forecasts.csv"
+}

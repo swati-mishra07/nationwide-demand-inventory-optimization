@@ -1,0 +1,15 @@
+{
+    "evaluation_period_start": "2016-04-25",
+    "evaluation_period_end": "2016-05-22",
+    "observations": 5600,
+    "naive_7_day_average": {
+        "wape": 0.8144215644215644,
+        "mae": 1.162295918367347,
+        "rmse": 1.9907310727673975
+    },
+    "lightgbm": {
+        "wape": 0.7532297801280481,
+        "mae": 1.0749665004970286,
+        "rmse": 1.7892545006360325
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "solver_status": "OPTIMAL",
+    "items_and_stores": 200,
+    "forecast_horizon_days": 28,
+    "lead_time_days": 7,
+    "assumed_opening_inventory": 0,
+    "total_forecast_demand": 7744.72792202057,
+    "total_recommended_order": 9184,
+    "total_expected_shortage": 0,
+    "total_estimated_cost": 9184.0,
+    "purchase_cost_per_unit": 1.0,
+    "holding_cost_per_unit": 0.2,
+    "stockout_cost_per_unit": 20.0
+}

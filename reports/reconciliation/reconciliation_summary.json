@@ -1,0 +1,11 @@
+{
+    "method": "Bottom-up aggregation",
+    "item_store_forecast_rows": 5600,
+    "store_forecast_rows": 56,
+    "state_forecast_rows": 28,
+    "stores": 2,
+    "states": 1,
+    "total_predicted_demand": 7744.72792202057,
+    "maximum_state_reconciliation_difference": 0.0,
+    "coherence_check_passed": true
+}

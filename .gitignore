@@ -1,4 +1,5 @@
 # Python
+lightning_logs/
 __pycache__/
 *.py[cod]
 *.pyo
@@ -32,6 +33,11 @@ models/*
 reports/figures/*
 reports/forecasts/*
 reports/metrics/*
+
+
+# generated evaluation metrics
+!reports/metrics/
+!reports/metrics/*.json
 
 # Logs
 *.log

@@ -1,0 +1,11 @@
+{
+    "model": "LightGBM",
+    "wape": 0.7532297801280481,
+    "rmsse": 0.5195675505195881,
+    "mae": 1.0749665004970286,
+    "rmse": 1.7892545006360325,
+    "training_rows": 377000,
+    "testing_rows": 5600,
+    "features": 29,
+    "forecast_horizon_days": 28
+}
