@@ -1,4 +1,3 @@
-
 # Python
 __pycache__/
 *.py[cod]
@@ -7,35 +6,36 @@ __pycache__/
 # Virtual environment
 .venv/
 venv/
-env/
 
 # Environment variables
 .env
-.env.*
 
 # Jupyter
 .ipynb_checkpoints/
 
 # IDE
 .vscode/
-.idea/
 
-# Raw and processed datasets
+# Raw datasets
 data/raw/*
 !data/raw/.gitkeep
+
+# Processed datasets
 data/processed/*
 !data/processed/.gitkeep
 
-# Generated model artifacts
-models/*.joblib
-models/*.pkl
-models/*.txt
+# Model artifacts
+models/*
+!models/.gitkeep
 
-# OS
+# Generated reports
+reports/figures/*
+reports/forecasts/*
+reports/metrics/*
+
+# Logs
+*.log
+
+# OS files
 .DS_Store
 Thumbs.db
-
-# Testing and cache
-.pytest_cache/
-.coverage
-htmlcov/
