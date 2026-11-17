@@ -266,7 +266,7 @@ The demonstration covers:
 
 The 10-minute internship presentation is available here:
 
-Demand_Forecasting_Inventory_Intelligence.pptx
+[Download the Final Presentation](presentation/Demand_Forecasting_Inventory_Intelligence.pptx)
 
 ## Author
 

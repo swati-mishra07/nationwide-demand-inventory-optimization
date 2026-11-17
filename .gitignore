@@ -45,3 +45,6 @@ reports/metrics/*
 # OS files
 .DS_Store
 Thumbs.db
+
+# Demo recordings
+demo/
