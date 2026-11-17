@@ -250,6 +250,24 @@ Model checkpoints and raw/processed datasets are not included in the Git reposit
 - Add automated tests, dependency pinning, and continuous integration.
 - Explore more advanced reconciliation and inventory constraints.
 
+## Project Demo
+
+Watch the recorded end-to-end project demonstration:
+
+[**Watch Demand Forecasting & Inventory Intelligence Demo**](https://drive.google.com/file/d/18bAg150uwp9Z8Wg5L5_ShWg256MyDFg4/view?usp=sharing)
+
+The demonstration covers:
+- Forecasting model comparison
+- Interactive demand forecast dashboard
+- Inventory optimization using OR-Tools
+- Hierarchical forecast reconciliation using Darts
+
+## Final Presentation
+
+The 10-minute internship presentation is available here:
+
+Demand_Forecasting_Inventory_Intelligence.pptx
+
 ## Author
 
 Developed as a demand forecasting and inventory optimization project using retail time-series data, machine learning, hierarchical forecasting, and operations research.
